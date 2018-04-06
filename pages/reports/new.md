@@ -10,10 +10,10 @@ title: Generate a Report
     <div class="input-group">
       <label for="segment">1. Select a Segment</label>
       <select id="segment">
-        <option>Audience Segment</option>
-        <option>Audience Segment</option>
-        <option>Audience Segment</option>
-        <option>Audience Segment</option>
+        <option>Segment by Gender</option>
+        <option>Segment by Age</option>
+        <option>Segment by Veteran Status</option>
+        <option>Segment by Region</option>
       </select>
     </div>
     <div class="input-group">
@@ -32,6 +32,11 @@ title: Generate a Report
         <option>All Platforms</option>
         <option>Twitter</option>
         <option>Facebook</option>
+         <option>Reddit</option>
+         <option>VA Official Forums</option>
+         <option>Facebook</option>
+         <option>Local News Forums</option>
+         <option>Local News Radio</option>
       </select>
     </div>
     <button>Generate Report</button>

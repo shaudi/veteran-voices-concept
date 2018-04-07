@@ -8,6 +8,7 @@ title: Example Dashboard
   <h1>Example Dashboard</h1>
   <div class="dashboard-filters">
     <select>
+       <option>Last Hour</option>
       <option>Last 24 Hours</option>
       <option>Last 7 Days</option>
       <option>Last 14 Days</option>

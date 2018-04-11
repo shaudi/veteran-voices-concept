@@ -112,16 +112,17 @@ title: Transition Year
    <div class="usa-width-one-fourth">
     <div class="card">
       <div class="card-heading">Network Map of Influencers</div>
-     <img src="{{ site.baseurl }}/assets/img/figures/dashboard-trajectory.png" alt="Social Influencers Network Map">
+     <img src="{{ site.baseurl }}/assets/img/figures/socialnetworkanalysis_graph.gif" alt="Social Influencers Network Map">
     </div>
   </div>
     <div class="usa-width-one-fourth">
     <div class="card">
       <div class="card-heading">Map of Posts</div>
-     <img src="{{ site.baseurl }}/assets/img/figures/dashboard-trajectory.png" alt="Social Influencers Network Map">
+     <img src="{{ site.baseurl }}/assets/img/figures/map_of_tweets.png" alt="Social Influencers Network Map">
     </div>
   </div>
   
+  img/figures/dashboard-sentiment.png
   
   
   

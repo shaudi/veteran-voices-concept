@@ -63,17 +63,4 @@ title: Example Dashboard
     </ul>
   </div>
 </div>
-<div class="dashboard-row clearfix">
-  <div class="usa-width-one-half">
-    <div class="card">
-      <div class="card-heading">Projected News Trajectory</div>
-      <img src="{{ site.baseurl }}/assets/img/figures/dashboard-trajectory.png" alt="News Trajectory Visualization">
-    </div>
-  </div>
-  <div class="usa-width-one-half">
-    <div class="card">
-      <div class="card-heading">Positive Sentiment by Platform</div>
-      <img src="{{ site.baseurl }}/assets/img/figures/dashboard-sentiment.png" alt="Positive Sentiment by Platform">
-    </div>
-  </div>
 </div>

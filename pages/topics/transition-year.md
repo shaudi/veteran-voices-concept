@@ -122,8 +122,5 @@ title: Transition Year
     </div>
   </div>
   
-  img/figures/dashboard-sentiment.png
-  
-  
   
 </div>

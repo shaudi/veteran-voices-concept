@@ -63,7 +63,7 @@ title: Example Dashboard
     </ul>
   </div>
 </div>
-</div>
+
 
 <div class="dashboard-row clearfix">
   <div class="usa-width-one-fourth">

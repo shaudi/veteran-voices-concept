@@ -111,7 +111,7 @@ title: Transition Year
   </div>
    <div class="usa-width-one-half">
     <div class="card">
-      <div class="card-heading">Positive Sentiment by Platform</div>
+      <div class="card-heading">Network Map of Influencers</div>
      <img src="{{ site.baseurl }}/assets/img/figures/dashboard-trajectory.png" alt="Social Influencers Network Map">
     </div>
   </div>

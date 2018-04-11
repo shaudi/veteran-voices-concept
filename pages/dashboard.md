@@ -87,7 +87,7 @@ title: Example Dashboard
     <div class="usa-width-one-fourth">
     <div class="card">
       <div class="card-heading">Map of Posts</div>
-     <img src="{{ site.baseurl }}/assets/img/figures/map_of_tweets.png" alt="Social Influencers Network Map">
+     <img src="{{ site.baseurl }}/assets/img/figures/map_of_tweets.png" alt="Map of Comments and Tweets">
     </div>
   </div>
   

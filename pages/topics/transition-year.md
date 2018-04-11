@@ -97,19 +97,19 @@ title: Transition Year
   </div>
 </div>
 <div class="dashboard-row clearfix">
-  <div class="usa-width-one-half">
+  <div class="usa-width-one-third">
     <div class="card">
       <div class="card-heading">Projected News Trajectory</div>
       <img src="{{ site.baseurl }}/assets/img/figures/dashboard-trajectory.png" alt="News Trajectory Visualization">
     </div>
   </div>
-  <div class="usa-width-one-half">
+  <div class="usa-width-one-third">
     <div class="card">
       <div class="card-heading">Positive Sentiment by Platform</div>
       <img src="{{ site.baseurl }}/assets/img/figures/dashboard-sentiment.png" alt="Positive Sentiment by Platform">
     </div>
   </div>
-   <div class="usa-width-one-half">
+   <div class="usa-width-one-third">
     <div class="card">
       <div class="card-heading">Network Map of Influencers</div>
      <img src="{{ site.baseurl }}/assets/img/figures/dashboard-trajectory.png" alt="Social Influencers Network Map">
